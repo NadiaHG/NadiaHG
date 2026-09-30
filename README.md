@@ -1,10 +1,10 @@
 ## Hi there 👋
 I am an expert in robotics and a strong believer in the power of open-source communities #goROS.
 
-- 🔭 I’m currently working on model-based solutions for robotics [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/ipa-nhg)
+- 🔭 I’m currently working on model-based solutions for robotics [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/NadiaHG)
 - 👯 I’m looking to collaborate on best practices for robotics 
 - 🤔 I’m looking for help with the definition of common design patterns for robotics components
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nadia-hammoudeh-garc%C3%ADa-62146b105) nadia.hammoudeh.garcia@ipa.fraunhofer.de  
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nadia-hammoudeh-garc%C3%ADa-62146b105) nadia.hammoudeh@idener.ai
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ipa-nhg&show_icons=true&count_private=true&theme=tokyonight)
 
